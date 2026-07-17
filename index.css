@@ -1,0 +1,101 @@
+body {
+    margin: 0;
+    background-color: #1B244A;
+}
+
+.container {
+    display: flex;
+    color: #EEEEEE;
+    justify-content: space-around;
+    
+}
+
+#home-score {
+    font-family: 'Orbitron', sans-serif;
+    text-align: center;
+    color: red;
+    border: 10px;
+    background: #080001;
+    font-size: 50px;
+}
+
+#guest-score {
+    font-family: 'Orbitron', sans-serif;
+    text-align: center;
+    color: red;
+    border: 10px;
+    background: #080001;
+    font-size: 50px;
+}
+
+#home-plus1 {
+    background-color: transparent;
+    color: #9AABD8;
+    border: 2px solid #9AABD8;
+    border-radius: 8px;
+    width: 45px;
+    height: 35px;
+    font-size: 14px;
+    cursor: pointer;
+
+}
+
+#home-plus2 {
+    background-color: transparent;
+    color: #9AABD8;
+    border: 2px solid #9AABD8;
+    border-radius: 8px;
+    width: 45px;
+    height: 35px;
+    font-size: 14px;
+    cursor: pointer;
+
+}
+
+#home-plus3 {
+    background-color: transparent;
+    color: #9AABD8;
+    border: 2px solid #9AABD8;
+    border-radius: 8px;
+    width: 45px;
+    height: 35px;
+    font-size: 14px;
+    cursor: pointer;
+
+}
+
+#guest-plus1 {
+    background-color: transparent;
+    color: #9AABD8;
+    border: 2px solid #9AABD8;
+    border-radius: 8px;
+    width: 45px;
+    height: 35px;
+    font-size: 14px;
+    cursor: pointer;
+
+}
+
+#guest-plus2 {
+    background-color: transparent;
+    color: #9AABD8;
+    border: 2px solid #9AABD8;
+    border-radius: 8px;
+    width: 45px;
+    height: 35px;
+    font-size: 14px;
+    cursor: pointer;
+
+}
+
+#guest-plus3 {
+    background-color: transparent;
+    color: #9AABD8;
+    border: 2px solid #9AABD8;
+    border-radius: 8px;
+    width: 45px;
+    height: 35px;
+    font-size: 14px;
+    cursor: pointer;
+
+}
