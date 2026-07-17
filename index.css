@@ -19,7 +19,7 @@ body {
     font-size: 50px;
 }
 
-#guest-score {
+#away-score {
     font-family: 'Orbitron', sans-serif;
     text-align: center;
     color: red;
@@ -64,7 +64,7 @@ body {
 
 }
 
-#guest-plus1 {
+#away-plus1 {
     background-color: transparent;
     color: #9AABD8;
     border: 2px solid #9AABD8;
@@ -76,7 +76,7 @@ body {
 
 }
 
-#guest-plus2 {
+#away-plus2 {
     background-color: transparent;
     color: #9AABD8;
     border: 2px solid #9AABD8;
@@ -88,7 +88,7 @@ body {
 
 }
 
-#guest-plus3 {
+#away-plus3 {
     background-color: transparent;
     color: #9AABD8;
     border: 2px solid #9AABD8;
