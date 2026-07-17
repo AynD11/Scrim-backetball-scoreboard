@@ -23,20 +23,20 @@ function homePlus3() {
   scoreH.textContent = countH
 }
 
-function awayPlus1() {
+function guestPlus1() {
   
   countG += 1
   scoreG.textContent = countG
   
 }
 
-function awayPlus2() {
+function guestPlus2() {
   
   countG += 2
   scoreG.textContent = countG
 }
 
-function awayPlus3() {
+function guestPlus3() {
   
   countG += 3
   scoreG.textContent = countG
